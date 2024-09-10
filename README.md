@@ -40,7 +40,7 @@ No es necesario instalar dependencias externas. Solo necesitas tener Python inst
 
     bash
 
-git clone https://github.com/usuario/generador-contrasenas.git
+git clone https://github.com/mauq91/Password-Generator
 
 Navega al directorio del proyecto:
 
